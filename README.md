@@ -4,6 +4,8 @@ Welcome to Automated Machine Learning with LazyClassifier, a powerful Python pro
 
 This project simplifies the typical data science workflow by automatically testing and ranking several machine learning models, choosing the best one for your dataset, and providing detailed evaluation metrics. Forget about manual model selection—let the machine do the work for you!
 
+![cs50p](./CS50P.png)
+
 ## Video Demo:
 
 <https://youtu.be/cc5cYdXIcvE?si=d6TQ1qRXYb29GExc>
